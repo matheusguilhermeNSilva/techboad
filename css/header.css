@@ -1,0 +1,17 @@
+.cabecalho{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 2.3em 5em 0em 5em;
+}
+@media screen and (max-width:788px) {
+    .cabecalho{
+        margin: 2em 2.5em 2em 2.5em;
+    }
+}
+@media screen and (max-width:390px) {
+    .cabecalho{
+        margin: 1.5em 0.5em 0em 1em ;
+
+    }
+}

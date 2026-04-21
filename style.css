@@ -1,0 +1,23 @@
+@import url(./css/header.css);
+@import url(./css/main.css);
+
+:root {
+    --fonte-1: poppins;
+    --fonte-2: Unbounded;
+    --branco-fundo: #FFFFFF;
+    --roxo-destaque: #9747FF;
+    --roxo-hover:#8233E8;
+
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: var(--fonte-1);
+    font-weight: 400;
+    background-color: var(--branco-fundo);
+}
