@@ -12,7 +12,7 @@
 
 .container__titulo,
 .container__titulo-destaque {
-    font-family: var(--fonte-1);
+    font-family: var(--fonte-2);
     font-weight: 700;
     font-size: 4rem;
     text-align: center;
